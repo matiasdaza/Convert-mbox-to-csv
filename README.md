@@ -6,7 +6,7 @@
 2. In the terminal in the directory where the file is run this line
 
 ```
-python ./csvconv.py
+python ./mbox-to-csv.py
 ```
 3. Now it has been created a **.csv** file called **example.csv**
 
@@ -15,6 +15,6 @@ python ./csvconv.py
 1. Puedes renombrar tu archivo **.mbox** a **exampple.mbox** o cambiar el archivo **mbox-to-csv.py** para agregar el nombre de tu archivo.
 2. Abre la terminal en el directorio donde están los archivos y ejecuta el siguiente comando
 ```
-python ./csvconv.py
+python ./mbox-to-csv.py
 ```
 3. Ahora se ha creado un archivo **.csv** llamado **example.csv**, en este caso con un ejemplo de prueba.
